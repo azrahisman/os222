@@ -10,3 +10,4 @@ ZCZC W00 15 L03 Set up GitHub repository
 ZCZC W00 15 L04 Set up GitHub pages
 ZCZC W00 100 L02 Lecture via Zoom
 ZCZC W00 15 L41 TXT/mylog.txt related
+ZCZC W00 60 L15 Assignment #05 (Reading Assignment)
