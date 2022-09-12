@@ -15,5 +15,7 @@ ZCZC W01 10 L01 SCeLe related
 ZCZC W01 100 L02 Lecture via Zoom
 ZCZC W01 10 L01 SCeLe related
 ZCZC W01 120 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W01 120 L11 Assignment #01
-ZCZC W01 60 L13 Assignment #03
+ZCZC W01 120 L11 Assignment #01 (Weekly Assignments W01)
+ZCZC W01 60 L12 Assignment #02 (Weekly Assignments W01)
+ZCZC W01 60 L13 Assignment #03 (Weekly Assignments W01)
+ZCZC W01 15 L14 Assignment #04 (Weekly Assignments W01)
