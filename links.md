@@ -1,15 +1,11 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[LINKS](https://github.com/azrahisman/os222/blob/master/links.md) ---
+[LOG](https://azrahisman.github.io/os222/TXT/mylog.txt) ---
+[TARBALL](https://os.vlsm.org/Log/azrahisman.tar.bz2.txt) ---
+[GITHUB](https://github.com/azrahisman/os222/)
 <br>
 <hr>
 
