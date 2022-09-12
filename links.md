@@ -16,9 +16,3 @@ This is the link for the SCeLe page of Operating Systems course.
 
 2. [Two](https://os.vlsm.org/)<br>
 This is the link for the Homepage of the Operating Systems course.
-
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
