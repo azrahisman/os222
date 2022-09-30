@@ -33,4 +33,5 @@ ZCZC W03 60 L09 Re-doing assignment Week 03
 ZCZC W04 100 L02 Lecture via Zoom
 ZCZC W04 100 L00 Offline Lecture
 ZCZC W04 120 L09 Doing Assignment Week 04
+ZCZC W04 20 L13 Updating os222/links.md
 ZCZC W04 10 L41 TXT/mylog.txt related
