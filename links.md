@@ -9,7 +9,7 @@ permalink: LINKS/
 <br>
 <hr>
 
-# LINKS
+# LINKS WEEK 01
 
 1. [SCeLe OS Course](https://scele.cs.ui.ac.id/course/view.php?id=3398)<br>
 This is the link for the SCeLe page of Operating Systems course.
@@ -40,3 +40,36 @@ This is a link to look up errors that occured (kind of like the GSGS for learnin
 
 10. [Apple Support Community](https://discussions.apple.com/welcome)<br>
 This is very useful especially for Mac M1 users who sometimes need to do extra work to install or download something or for when handling errors in general.
+
+# LINKS WEEK 02
+
+1. [Mac Terminal Commands Cheat Sheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)<br>
+This is the link for cheat sheet of mac terminal commands.
+
+2. [Ubuntu Tutorials](https://ubuntu.com/tutorials)<br>
+This is the link for website providing step-by-step process to do development and dev-ops activities on Ubuntu machines, servers, or devices.
+
+3. [Linux Tech Lab](https://linuxtechlab.com/)<br>
+This is a link for a website providing Linux devops tutorials, scripting tutorials, how to's, and tips & tricks.
+
+# LINKS WEEK 03
+
+1. [Article Regarding UTM](https://levelup.gitconnected.com/virtualization-on-the-mac-using-utm-e4c5abc3ee9c)<br>
+This is a link for an article talkimng about virtualization on Mac using UTM.
+
+2. [Cornell Working with Tarballs](https://www.cs.cornell.edu/courses/cs5220/2017fa/tar-info.html)<br>
+This is a link regarding working with Tarballs.
+
+3. [Fixing Wget SSL problem]( https://www.skynats.com/blog/wget-ssl-error/#:~:text=The%20error%20usually%20occurs%20when,like%20TLSv1%20or%20TLSv2%20etc./)
+This is a link to a page for fixing "unable to establish SSL connection using wget" problem.
+
+# LINKS WEEK 04
+
+1. [LinuxQuestions](https://www.linuxquestions.org/questions/)<br>
+This is a link to a friendly and active Linux Community. here you can post topics, receive newsletters, subscribe to threads, etc.
+
+2. [SuperUser](https://superuser.com/)<br>
+This is a link to for a question and answer site for computer enthusiasts and power users.
+
+3. [Ask Ubuntu](https://askubuntu.com/)<br>
+This is a link for a question and answer site for Ubuntu users and developers.
