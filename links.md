@@ -73,3 +73,14 @@ This is a link to for a question and answer site for computer enthusiasts and po
 
 3. [Ask Ubuntu](https://askubuntu.com/)<br>
 This is a link for a question and answer site for Ubuntu users and developers.
+
+# LINKS WEEK 05
+
+1. [Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)<br>
+This is a link for an explanation about Virtual Memory. We need to provide an email address to continue reading the rest of it, but I think it's not a problem.
+
+2. [The Cost/Performance Trade-off Model](https://nap.nationalacademies.org/read/2344/chapter/5)<br>
+This is a link for an e-book that talks about the cost/performance trade-off model. It is a chapter from a book titled "Modeling Cost and Performance for Military Enlistment: Report of a Workshop (1994)"
+
+3. [Thrashing](https://www.javatpoint.com/what-is-thrash)<br>
+This is a link for an explanation about what Thrashing is. It also explains about the causes and how to eliminate.
