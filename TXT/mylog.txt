@@ -41,3 +41,10 @@ ZCZC W05 10 L00 Emailed Lecturer
 ZCZC W05 60 L09 Doing assignment Week 05
 ZCZC W05 10 L06 Browsing for references
 ZCZC W05 05 L41 TXT/mylog.txt related
+ZCZC W06 15 L01 Checking SCeLe
+ZCZC W06 76 L09 Doing assignment Week 05
+ZCZC W06 10 L06 Browsing for references
+ZCZC W07 100 L02 Lecture via Zoom
+ZCZC W07 100 L00 Offline lecture
+ZCZC W07 75 L05 Doing Pop Quiz
+ZCZC W07 120 L09 Doing Assignment Week 07
