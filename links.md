@@ -84,3 +84,18 @@ This is a link for an e-book that talks about the cost/performance trade-off mod
 
 3. [Thrashing](https://www.javatpoint.com/what-is-thrash)<br>
 This is a link for an explanation about what Thrashing is. It also explains about the causes and how to eliminate.
+
+# LINKS WEEK 06
+
+1. [What is shared memory?](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/what-is-shm.html)
+This is a link for an explanation about Shared Memory. We need to provide an email address to continue reading the rest of it, but I think it's not a problem.
+
+# LINKS WEEK 07
+1. [About Forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks#:~:text=A%20fork%20is%20a%20copy,original%20repository%20with%20pull%20requests.)
+This is a link for an explanation about forks on GitHub. It is a github documentation.
+
+2. [What is forking?](https://www.techtarget.com/whatis/definition/fork)
+This is another link for an explanation about forking.
+
+3. [Process Synchronization](https://www.tutorialspoint.com/process-synchronization-in-linux#:~:text=Process%20synchronization%20in%20Linux%20involves,process%20is%20the%20child%20process.)
+This is a link for an explanation about process synchronization. More specifically in Linux.
